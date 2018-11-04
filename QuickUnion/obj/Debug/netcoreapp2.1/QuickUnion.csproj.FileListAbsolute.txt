@@ -1,0 +1,11 @@
+/home/nplanchart/Code/algorithms/QuickUnion/bin/Debug/netcoreapp2.1/QuickUnion.deps.json
+/home/nplanchart/Code/algorithms/QuickUnion/bin/Debug/netcoreapp2.1/QuickUnion.runtimeconfig.json
+/home/nplanchart/Code/algorithms/QuickUnion/bin/Debug/netcoreapp2.1/QuickUnion.runtimeconfig.dev.json
+/home/nplanchart/Code/algorithms/QuickUnion/bin/Debug/netcoreapp2.1/QuickUnion.dll
+/home/nplanchart/Code/algorithms/QuickUnion/bin/Debug/netcoreapp2.1/QuickUnion.pdb
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.csprojAssemblyReference.cache
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.csproj.CoreCompileInputs.cache
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.AssemblyInfoInputs.cache
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.AssemblyInfo.cs
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.dll
+/home/nplanchart/Code/algorithms/QuickUnion/obj/Debug/netcoreapp2.1/QuickUnion.pdb
